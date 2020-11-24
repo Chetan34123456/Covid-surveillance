@@ -1,0 +1,9 @@
+Remaining :- 
+  recognize the person
+  delete data fom database
+  
+Done:- 
+  Basic Gui
+  Created Database
+  Able to detect multiple person using Haar cascade
+  
